@@ -1,3 +1,6 @@
+# Copyright (C) 2026 Qt Group.
+# SPDX-License-Identifier: LicenseRef-Qt-Commercial OR GPL-3.0-only
+
 cmake_minimum_required(VERSION 3.16)
 
 project(QMLModelsViews_Section_2_to_5 VERSION 0.1 LANGUAGES CXX)
