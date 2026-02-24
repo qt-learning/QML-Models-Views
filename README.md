@@ -18,7 +18,7 @@ QMLModelsViews_Section9: Example to demonstrate how to build a TreeView in Qt Qu
 
 QMLModelsViews_Section10: Example to demonstrate how to build an ObjectModel in Qt Quick. Tested with with Qt 6.5.2 MinGW 64-bit.
 
-## Resouces
+## Resources
 
 If you need additional help, the following resources may be helpful:
 
